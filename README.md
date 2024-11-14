@@ -42,7 +42,6 @@ I'm a Machine Learning Engineer and Development Team Lead at HumblebeeAI, passio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 📈 GitHub Stats
-### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=OtabekNajimov&theme=dark" alt="GitHub Streak" />

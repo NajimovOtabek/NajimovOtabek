@@ -42,17 +42,18 @@ I'm a Machine Learning Engineer and Development Team Lead at HumblebeeAI, passio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=OtabekNajimov&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://https-github-com-mckaywrigley-chatbot-etppwfquf-otabek5454.vercel.app/api?username=OtabekNajimov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://najimovotabek.vercel.app/api?username=OtabekNajimov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://https-github-com-mckaywrigley-chatbot-etppwfquf-otabek5454.vercel.app/api/top-langs/?username=OtabekNajimov&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://najimovotabek.vercel.app/api/top-langs/?username=OtabekNajimov&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ### 🤝 Connect With Me

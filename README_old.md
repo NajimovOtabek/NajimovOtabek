@@ -1,113 +1,74 @@
+<div align="center">
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OtabekNajimov.OtabekNajimov)
 
+# Hello World! 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=OtabekNajimov.OtabekNajimov">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Welcome+to+Otabek+Najimov's+Tech+Universe!;Machine+Learning+Engineer+%7C+Team+Lead)](https://git.io/typing-svg)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Otabek+Najimov...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+</div>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/otabek-najimov/" title="LinkedIn Profile" target="_blank">
-      <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"> LinkedIn
-    </a>
-  </code>
-  <a href="https://twitter.com/otabek_najimov" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/otabek_najimov_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</h5>
+## 👨‍💻 About Me
 
+> "Bridging Business and Technology through AI Innovation"
 
-<br>
-<p align="center">
-  Hi, I'm Otabek Najimov, Team Lead at HumblebeeAI and a Machine Learning Engineer from South Korea.
-  <br>
-  <br>
-  🎓 Currently studying International Business and Trade at Inha University
-  <br>
-  🧑‍💻 Working as a Development Team Lead and Machine Learning Engineer at HumblebeeAI
-  <br>
-  💼 Experienced in retail and automotive industries with business development and technical skills
-  <br>
-  🚀 Leading AI-driven projects to build innovative solutions
-  <br>
-  📚 Continuously learning and open to new opportunities and collaborations
-  <br>
-  💬 Ask me anything about machine learning, AI, and business applications in technology
-  <br>
-  📫 How to reach me: <a href="mailto:otabeknajimov6767@gmail.com">otabeknajimov6767@gmail.com</a>
-</p>
+I'm a Machine Learning Engineer and Development Team Lead at HumblebeeAI, passionate about creating intelligent solutions that drive technological advancement. Based in South Korea, I blend technical expertise with business acumen to deliver impactful AI solutions.
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"></code>
-  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://cdn-icons-png.flaticon.com/512/3651/3651508.png"></code> <!-- Generic icon for Problem Solving -->
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
-  <code><img title="PyTorch" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
-  <code><img title="TensorFlow" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"></code>
-  <code><img title="Pandas" height="25" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
-  <code><img title="NumPy" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
-  <img title="Matplotlib" height="25" src="https://matplotlib.org/_static/images/logo2.svg">
-  <code><img title="Seaborn" height="25" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></code>
-  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png"></code>
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-  <code><img title="ChatGPT" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"></code>
-</p>
-<hr>
+### 🎯 Current Focus
 
-<!--
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=NajimovOtabek&theme=react&border=61dafb&hide_border=true" alt="NajimovOtabek's streak stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=NajimovOtabek&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="NajimovOtabek's GitHub stats" />
-    </a>
+- 🎓 Pursuing International Business and Trade at Inha University
+- 💡 Leading AI-driven projects at HumblebeeAI
+- 🔍 Specializing in ML Engineering and Team Leadership
+- 🌱 Exploring cutting-edge AI/ML technologies
+
+### 🛠️ Technical Arsenal
+
+#### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+#### Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+#### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<div align="center">
+  <h2>🔥 Github Stats</h2>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajimovOtabek&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+  <!-- Stats Card & Top Languages -->
+  <div>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NajimovOtabek&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajimovOtabek&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajimovOtabek&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="NajimovOtabek's top languages" />
-    </a>
-  </div>
-  <br>
+</div>
 
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=NajimovOtabek&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="NajimovOtabek's GitHub activity graph"/>
-</p> --> -->
+### 🤝 Connect With Me
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otabek-najimov/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/otabek_najimov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/otabek_najimov_)
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💼 Professional Inquiries: [otabeknajimov6767@gmail.com](mailto:otabeknajimov6767@gmail.com)
+- 🌐 LinkedIn: [Otabek Najimov](https://www.linkedin.com/in/otabek-najimov/)
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+---
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+<div align="center">
 
--->
+### 💡 "Creating intelligent solutions for tomorrow's challenges"
+
+</div>

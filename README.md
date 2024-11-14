@@ -43,13 +43,17 @@ I'm a Machine Learning Engineer and Development Team Lead at HumblebeeAI, passio
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=OtabekNajimov&theme=dark" alt="GitHub Streak" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OtabekNajimov&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img height="180em" src="https://https-github-com-mckaywrigley-chatbot-etppwfquf-otabek5454.vercel.app/api?username=OtabekNajimov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=OtabekNajimov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img height="180em" src="https://https-github-com-mckaywrigley-chatbot-etppwfquf-otabek5454.vercel.app/api/top-langs/?username=OtabekNajimov&layout=compact&langs_count=8&theme=dark"/>
+</p>
 
 ### 🤝 Connect With Me
 

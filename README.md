@@ -5,13 +5,13 @@
 # Hello World! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer;Team+Lead+at+HumblebeeAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Tech+Universe!;Machine+Learning+Engineer;Project+Manager+at+HumblebeeAI" alt="Typing SVG" />
 </div>
 
 ## 🧔 About Me
 > "Bridging Business and Technology through AI Innovation"
 
-I'm a Machine Learning Engineer and Development Team Lead at HumblebeeAI, passionate about creating intelligent solutions that drive technological advancement. Based in South Korea, I blend technical expertise with business acumen to deliver impactful AI solutions.
+I'm a Machine Learning Engineer and Development Project Manager at HumblebeeAI, passionate about creating intelligent solutions that drive technological advancement. Based in South Korea, I blend technical expertise with business acumen to deliver impactful AI solutions.
 
 ## 🎯 Current Focus
 - 🎓 Pursuing International Business and Trade at Inha University

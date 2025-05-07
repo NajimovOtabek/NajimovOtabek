@@ -54,10 +54,6 @@ I'm a Machine Learning Engineer and Development Project Manager at HumblebeeAI, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajimovOtabek&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C3D1D9&text_color=C3D1D9" width="48%" />
 </div>
 
-
-## 📫 How to Reach Me
-- 💼 Professional Inquiries: [otabeknajimov6767@gmail.com](mailto:otabeknajimov6767@gmail.com)
-
 <div align="center">
   <i>"Creating intelligent solutions for tomorrow's challenges"</i>
 </div>
